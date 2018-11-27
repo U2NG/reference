@@ -1,0 +1,500 @@
+  175  git init
+  176  git clone https://github.com/ucsdlib/newspaper_textmining.git
+  177  ls 
+  178  cd ..
+  179  pwd
+  180  cd
+  181  cd documetns 
+  182  cd documents 
+  183  ls 
+  184  cd git_repos/
+  185  ls 
+  186  git clone https://github.com/ucsdlib/newspaper_textmining.git
+  187  ls 
+  188  cd newspaper_textmining/
+  189  ls 
+  190  git status 
+  191   git remote -v 
+  192  cd ..
+  193  ls 
+  194  ls 
+  195  ls 
+  196  cd newspaper_textmining/
+  197  ls 
+  198  git status 
+  199  ls 
+  200  git remote -v
+  201  git remote add upstream https://github.com/ucsdlib/newspaper_textmining
+  202  git remote -v
+  203  git branch
+  204  git branch -b lesson-edits 
+  205  git checkout -b lesson-edits 
+  206  git branch 
+  207  git status 
+  208  cd _episodes
+  209  ls 
+  210  git status 
+  211  git add 00_intro.md 
+  212  git status 
+  213  git commit -m "fixed minor typo to test pull request" 
+  214  git status 
+  215  git push origin lesson-edits
+  216  git status 
+  217  cd ..
+  218  git fetch upstream
+  219  git merge upstream/gh-pages
+  220  git status 
+  221  make serve
+  222  cd documents
+  223  cd git_repors
+  224  cd git_repos
+  225  ls 
+  226  ls 
+  227  cd dowcuments 
+  228  ls 
+  229  cd git_test/
+  230  ls 
+  231  cd ,,
+  232  cd git_repos
+  233  ls 
+  234  cd..
+  235  ls 
+  236   cd
+  237  cd documents 
+  238  ls 
+  239  cd git_repos/
+  240  ls 
+  241  git suats
+  242  git statu 
+  243  git status
+  244  cd
+  245  cd documents 
+  246  ls 
+  247  cd git_repos/
+  248  ls 
+  249  cd documents 
+  250  cd git_repos/
+  251  ls 
+  252  cd 2018-11-27-UCSD/
+  253  ls 
+  254  git branch 
+  255  git branch -b update-index
+  256  git checkout -b update-index
+  257  git bramch 
+  258  git branch 
+  259  git status 
+  260  git
+  261  git stauts
+  262  clear
+  263  git status
+  264  cd git add index.md
+  265  ls 
+  266  git status 
+  267  git add index.md
+  268  git status 
+  269  git commit -m "updated instructors and helpers"  
+  270  git status 
+  271  git status 
+  272  git push upstream/gh-pages
+  273  git push origin upstream
+  274  git remote -v
+  275  git push 
+  276  git push upstream origin 
+  277  git push origin upstream
+  278  git push origin updating-index
+  279  git push upstream updating-index
+  280  history 
+  281  git push upstream gh-pages
+  282  git branch 
+  283  git status 
+  284  git status 
+  285  git push origin updating-index
+  286  git branch
+  287  git push origin update-index
+  288  git status 
+  289  git status
+  290  git status 
+  291  git add _includes/sc/syllabus.html
+  292  git add index.md
+  293  ls 
+  294  git status 
+  295  git commit -m "updating index and syllabus"
+  296  git status 
+  297  git diff index.md
+  298  git status
+  299  git push origin update-index
+  300  git status
+  301  git stauts 
+  302  git status
+  303  git status
+  304  git add _includes/sc/schedule.html
+  305  git status 
+  306  git status 
+  307  git commit -m "updated schedule"
+  308  git status
+  309  git push origin update-index
+  310  git status 
+  311  git status
+  312  git add _includes/sc/schedule.html
+  313  git status 
+  314  git commit -m "fixing typo in shed."
+  315  git status 
+  316  git push origin update-index
+  317  git status 
+  318  ls 
+  319  git push origin update-index
+  320  git status 
+  321  ls 
+  322  git status 
+  323  ls 
+  324  git remote -v
+  325  ls 
+  326  cd
+  327  brew
+  328  brew update
+  329  rm -rf /usr/local/share/doc/homebrew
+  330  brew udpate
+  331  brew update
+  332  rm /usr/local/bash_completion.d/brew
+  333  rm /usr/local/etc/bash_completion.d/brew
+  334  brew update
+  335  rm /usr/local/share/zsh/site-functions/_brew
+  336  rm /usr/local/share/man/man1/brew.1
+  337  brew update
+  338  brew update 
+  339  man berw
+  340  man brew
+  341  brew man 
+  342  man brew
+  343  brew info
+  344  brew upgrade
+  345  ls 
+  346  brwe cleanup -s
+  347  brew cleanup -s
+  348  brew doctor
+  349  brew missing
+  350  apm upgrade -c false
+  351  brew cleanup
+  352  ipython notebook
+  353  ls 
+  354  cd documents 
+  355  ls 
+  356  cd git_
+  357  cd documents
+  358  cd documents 
+  359  ls 
+  360  cd document
+  361  cd documents
+  362  cd
+  363  cd documents 
+  364  cd git_repos/
+  365  ls 
+  366  ls 
+  367  ls 
+  368  2018-11-27-UCSD/
+  369  ls 
+  370  cd 2018-11-27-UCSD/
+  371  ls 
+  372  git remote
+  373  git remote add -v
+  374  git remote -v
+  375  cd ..
+  376  ls 
+  377  cd 2018-libcarp-lesson-notes/
+  378  git remote 
+  379  git remote -v
+  380  cd ..
+  381  cd 2018-03-07-UCSD/
+  382  git remote -v
+  383  cd ..
+  384  cd 2018-08-13-chicostate/
+  385  git remote -v 
+  386  cd
+  387  cd 2018-11
+  388  cd 2018-11
+  389  cd 2018-11-
+  390  cd documents
+  391  cd git_
+  392  cd git_repos/
+  393  ls 
+  394  cd 2018-11-27-UCSD/
+  395  git remote -v
+  396  git remote add upstream https://github.com/ucsdlib/2018-11-27-UCSD
+  397  git remote -v
+  398  git status 
+  399  make serve
+  400  brew install geoip
+  401  geoip
+  402  geoip 
+  403  geoiplookup
+  404  geoiplookup 216.58.197.78
+  405  wget http://geolite.maxmind.com/download/geoip/database/GeoLiteCity.dat.gz
+  406  brew wget
+  407  brew install wget
+  408  wget http://geolite.maxmind.com/download/geoip/database/GeoLiteCity.dat.gz
+  409  brew htop
+  410  sudo htop
+  411  ifconfig
+  412  ping www.google.com
+  413  ls 
+  414  cd documents
+  415  git --version
+  416  brew install git
+  417  brew link git
+  418  rm '/usr/local/bin/git'
+  419  brew link git
+  420  brew link --overwrite git
+  421  git --version
+  422  git config
+  423  git config --global
+  424  git config --global
+  425  git config -global
+  426  git config --global
+  427  git config
+  428  git config --list
+  429  docker
+  430  brew install htop
+  431  sudo htop
+  432  brew install links
+  433  links
+  434  links -g
+  435  ls 
+  436  cd documetns
+  437  cd documents
+  438  ls 
+  439  cd git_repos/
+  440  ls
+  441  cd 2018-11-27-UCSD/
+  442  ls 
+  443  git status 
+  444  git branch 
+  445  git remote -v
+  446  git fetch upstream
+  447  git merge upstream/gh-pages
+  448  make serve
+  449  cd documents/git_repos
+  450  ls 
+  451  cd 2018-11-27-UCSD-1
+  452  ls 
+  453  make serve
+  454  ls 
+  455  ls 
+  456  cd documents 
+  457  ls 
+  458  cd git_repos/
+  459  ls 
+  460  cd 2018-11-27-UCSD
+  461  ls 
+  462  git fetch upstream
+  463  git merge upstream/gh-pages
+  464  git status
+  465  make seruve
+  466  make serve
+  467  cd ..
+  468  cd 2018-11-27-ucsd-1
+  469  make serve
+  470  ls 
+  471  cd documents
+  472  ls 
+  473  cd git_repos/
+  474  ls 
+  475  cd win2019-gps-r
+  476  ls 
+  477  git remote
+  478  git rermote -v
+  479  git remote-v
+  480  git remote -v
+  481  git remote add upstream https://github.com/ucsdlib/win2019-gps-r
+  482  git remote -v
+  483  cd ..
+  484  cd win2018-gps-r
+  485  git status
+  486  git remote -v
+  487  cd ..
+  488  ls
+  489  cd 2018-11-27
+  490  cd 2018-11-27-UCSD
+  491  ls 
+  492  git remote -v
+  493  cd ..
+  494  cd win2019-gps-r 
+  495  ls 
+  496  git checkout -b update-index
+  497  git branch 
+  498  make serve
+  499  make serve
+  500  jekyll serve
+  501  cd desktop 
+  502  cd planets
+  503  git init
+  504  ls
+  505  ls -a
+  506  git status
+  507  pwd
+  508  mkdir moons
+  509  ls 
+  510  nano mars.txt
+  511  cat mars.txt
+  512  git status
+  513  git add mars.txt
+  514  git status
+  515  git commit -m "start notes on mars as a base"
+  516  git status
+  517  git log
+  518  nano mars.txt
+  519  git status
+  520  git status
+  521  git diff
+  522  git commit -m 
+  523  git commit -m "add concerns about effects of Mars moons on wolfman"
+  524  git add mars.txt
+  525  git commit -m "add concerns about effects of Mars moons on wolfman"
+  526  git diff
+  527  git diff mars.txt
+  528  ls 
+  529  cat mars.txt
+  530  git diff
+  531  git status
+  532  nano mars.txt
+  533  git diff
+  534  git add mars.txt
+  535  git diff
+  536  git diff --staged
+  537  git commit -m "add concerns about mars climate for mummy"
+  538  git status
+  539  git loh
+  540  git log
+  541  git log -l
+  542  git log -1
+  543  git log -oneline
+  544  git log -N
+  545  git --version
+  546  git satus
+  547  git status
+  548  git log
+  549  git log -1
+  550  git log --oneline
+  551  git log --oneline --graph --all --decorate
+  552  nano mars.txt
+  553  git diff head mars.txt
+  554  git diff HEAD~1 mars.txt
+  555  git diff HEAD~2 mars.txt
+  556  git show HEAD~2 mars.txt
+  557  git diff 6cfb2f05
+  558  nano mars.txt
+  559  git status
+  560  git checkout HEAD mars.txt
+  561  cat mars.txt
+  562  git checkout 6cfb2f05d8 mars.txt
+  563  cat mars.txt
+  564  git status
+  565  git checkout HEAD mars.txt
+  566  cat mars.txt
+  567  git checkout 6cfb2f05d8
+  568  git checkout master
+  569  git status
+  570  cat mars.tt
+  571  cat mars.txt
+  572  mkdir results
+  573  touch a.dat b.dat c.dat results/a.out results/b.out
+  574  ls results
+  575  git status
+  576  nano .gitignore
+  577  git status
+  578  git add .gitignore
+  579  git commit -m" ingnore data files and teh results folder"
+  580  git status
+  581  git add a.dat
+  582  git status --ignored 
+  583  git remote 
+  584  git remote -v
+  585  git remote -v
+  586  git remote add origin https://github.com/U2NG/planets2.git
+  587  git remote -v
+  588  git push origin master
+  589  git pull origin master
+  590  git pull origin master
+  591  ls 
+  592  nano mars.txt
+  593  cat mars.txt
+  594  git add mars.txt
+  595  git status
+  596  git commit -m "add a line in our home copy"
+  597  git push origin master
+  598  git pull origin master 
+  599  git status
+  600  git pull origin master
+  601  cat mars.txt
+  602  git status
+  603  ls 
+  604  git status 
+  605  python --version
+  606  cd ..
+  607  git config 
+  608  cd planets
+  609  nano references.txt
+  610  git status
+  611  git add references.txt
+  612  git commit -m "creating references file for workshop"
+  613  git status 
+  614  git status
+  615  git status 
+  616  git status
+  617  nano references.txt
+  618  git status
+  619  git add reference.txt
+  620  git status
+  621  git commit -m "adding another line"
+  622  git status
+  623  git add references.txt
+  624  git status 
+  625  git commit -m "adding another line"
+  626  git status 
+  627  nano reference.txt
+  628  nano references.txt
+  629  git status
+  630  git add references.txt
+  631  git commit -m "adding 2 more lines to file"
+  632  git status 
+  633  git log
+  634  git diff
+  635  git diff references.txt
+  636  git status
+  637  git log --oneline
+  638  git diff head bc23aec
+  639  git diff head 758524e
+  640  git log --oneline
+  641  git checkout bc23aec references.txt
+  642  cat references.txt
+  643  git checkout master
+  644  cat references.txt
+  645  git checkout master
+  646  git checkout head references.txt
+  647  cat references.txt
+  648  git status
+  649  git log --graph
+  650  cd ..
+  651  cd reference
+  652  ls 
+  653  mkdir reference
+  654  cd refernce
+  655  cd reference/
+  656  ls 
+  657  clear
+  658  git init
+  659  git remote -v
+  660  git remote add origin https://github.com/U2NG/reference.git
+  661  git remote -v
+  662  git push origin master
+  663  nano reference.txt
+  664  git push origin master
+  665  git status
+  666  git add reference.txt
+  667  git commit -m "test"
+  668  git push origin master
+  669  git pull origin master
+  670  git status
+  671  git log 
+  672  git diff 
+  673  git diff reference.txt
+  674  history > workshop-commands.txt
